@@ -1,3 +1,10 @@
 .main {
-  margin-left: 110px;
+  margin: auto;
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+section {
+  scroll-snap-align: start;
 }

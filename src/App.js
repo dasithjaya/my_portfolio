@@ -3,9 +3,9 @@ import './App.css';
 import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
 import About from './components/about/About';
-import Edu from './components/edu/edu';
+import Edu from './components/edu/Edu';
 import Achive from './components/achive/Achive';
-import Projects from './components/projects/Projects';
+import Project from './components/project/Project';
 import Extra from './components/extra/Extra';
 import Contact from './components/contact/Contact';
 
@@ -18,9 +18,7 @@ const App = () => {
         <About />
         <Edu />
         <Achive />
-        <Projects />
-        <Extra />
-        <Contact />
+        <Project/>
       </main>
     </>
   )

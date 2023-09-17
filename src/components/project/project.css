@@ -1,0 +1,20 @@
+.project {
+    position: relative;
+    min-height: 100vh;
+}
+
+.project__container {
+    display: flex;
+    align-items: center;
+}
+
+.project__item {
+    padding: 1.875rem 2.5rem;
+    background-color: var(--container-color);
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+}
