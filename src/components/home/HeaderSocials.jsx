@@ -12,6 +12,14 @@ const HeaderSocials = () => {
         <i class="fa-brands fa-linkedin"></i>
       </a>
       <a
+        href="https://github.com/dasithjaya"
+        className="home__social-link"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <i class="fa-brands fa-square-github"></i>
+      </a>
+      <a
         href="https://www.facebook.com/chalaka.jaya"
         className="home__social-link"
         target="_blank"
