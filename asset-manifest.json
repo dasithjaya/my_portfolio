@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.9f8b7d74.css",
+    "main.js": "/my_portfolio/static/js/main.a15dadc2.js",
+    "static/media/about.jpg": "/my_portfolio/static/media/about.0a046bcf65abe87ac907.jpg",
+    "static/media/introMobile.PNG": "/my_portfolio/static/media/introMobile.4f85239f9606fb4e8386.PNG",
+    "static/media/kotlin.PNG": "/my_portfolio/static/media/kotlin.94cb42f40558af2e8457.PNG",
+    "static/media/versionControl.PNG": "/my_portfolio/static/media/versionControl.187e24d90af5daa60c08.PNG",
+    "static/media/react.png": "/my_portfolio/static/media/react.523c233f7dbe40506df3.png",
+    "static/media/profile.png": "/my_portfolio/static/media/profile.e9f61587435c7057c987.png",
+    "static/media/jquery.png": "/my_portfolio/static/media/jquery.3252b3083d084e85d5ca.png",
+    "static/media/php.png": "/my_portfolio/static/media/php.b6627ea9b5d70fb1cbd9.png",
+    "static/media/mongo.png": "/my_portfolio/static/media/mongo.66a41a7229e08fb8e0a3.png",
+    "static/media/ajax.png": "/my_portfolio/static/media/ajax.085e40f2a21dbf9dbfc1.png",
+    "static/media/node.png": "/my_portfolio/static/media/node.46c55a9ed3ae78b98de0.png",
+    "static/media/flutter.png": "/my_portfolio/static/media/flutter.8352bad40294a77415fd.png",
+    "static/media/gardening_hub.png": "/my_portfolio/static/media/gardening_hub.263b836a2e682312e646.png",
+    "static/media/webrtc.png": "/my_portfolio/static/media/webrtc.c8f87ff16aba012d9e04.png",
+    "static/media/express.png": "/my_portfolio/static/media/express.4f3b32fea6fe2fced93d.png",
+    "static/media/fight_the_bite.png": "/my_portfolio/static/media/fight_the_bite.cc3934135cfc4c7edb66.png",
+    "static/media/css.png": "/my_portfolio/static/media/css.0b9d93ed2ada122907f0.png",
+    "static/media/net.PNG": "/my_portfolio/static/media/net.c6932037b28843fa6a10.PNG",
+    "static/media/javascript.png": "/my_portfolio/static/media/javascript.4ff0f9690356345bf827.png",
+    "static/media/html.png": "/my_portfolio/static/media/html.badf07d90d288a5c4025.png",
+    "static/media/postman.PNG": "/my_portfolio/static/media/postman.53f5ac6c80d4da33acff.PNG",
+    "static/media/firebase.PNG": "/my_portfolio/static/media/firebase.7948660ad3a561ca1e03.PNG",
+    "static/media/logonew.png": "/my_portfolio/static/media/logonew.ccf2dcbc76d5e989fb57.png",
+    "static/media/dots-bg.svg": "/my_portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/my_portfolio/index.html",
+    "main.9f8b7d74.css.map": "/my_portfolio/static/css/main.9f8b7d74.css.map",
+    "main.a15dadc2.js.map": "/my_portfolio/static/js/main.a15dadc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8b7d74.css",
+    "static/js/main.a15dadc2.js"
+  ]
+}
