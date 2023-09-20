@@ -43,12 +43,6 @@ const Sidebar = () => {
             </li>
 
             <li className="nav__item">
-              <a href="#extra" className="nav__link">
-                <i className="icon-rocket"></i>
-              </a>
-            </li>
-
-            <li className="nav__item">
               <a href="#contact" className="nav__link">
                 <i className="icon-bubble"></i>
               </a>
