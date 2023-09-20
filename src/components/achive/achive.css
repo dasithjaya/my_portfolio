@@ -35,7 +35,7 @@
 }
 
 .achive__mask {
-  background: #6c6ce5;
+  background: #FFFFFF;
   position: absolute;
   left: 0;
   top: 0;
@@ -54,7 +54,7 @@
 }
 
 .achive__title {
-  color: #fff;
+  color: var(--text-color);
   font-size: var(--small-font-size);
   margin: 0 0 0.98rem;
   padding: 0 1.25rem;
@@ -80,7 +80,7 @@
   left: 1.5rem;
   font-size: var(--h3-font-size);
   display: block;
-  background-color: #ffd15c;
+  background-color: var(--first-color);
   height: 40px;
   width: 40px;
   cursor: pointer;

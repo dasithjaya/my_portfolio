@@ -126,7 +126,7 @@ img {
 }
 
 .section_title::before {
-  contet: "";
+  content: "";
   background: url(./assets/dots-bg.svg);
   height: 2.25rem;
   width: 2 0.25rem;
@@ -148,7 +148,12 @@ img {
   color: #fff;
   display: inline-block;
   background-color: var(--first-color);
-  font-weight: var(---you-vold);
+  font-weight: var(--font-bold);
+  transition: all .2s ease-in-out;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
 }
 
 @keyframes button-push {
@@ -170,6 +175,9 @@ img {
 }
 
 .btn:hover {
-  animation: botton-push 0.3s linear 1;
-  -webkit-animation: botton-push 0.3s linear 1;
+  transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
 }

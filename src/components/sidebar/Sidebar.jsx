@@ -1,12 +1,12 @@
 import React from "react";
 import "./sidebar.css";
-import Logo from "../../assets/logo.svg";
+import Logo from "../../assets/logonew.png";
 
 const Sidebar = () => {
   return (
     <aside className="aside">
       <a href="#home" className="nav__logo">
-        <img src={Logo} alt="" />
+        <img src={Logo} alt="" id="mainlogo"/>
       </a>
 
       <nav className="nav">
@@ -51,7 +51,7 @@ const Sidebar = () => {
         </div>
       </nav>
       <div className="nac__footer">
-        <span className="copyright">&copy; 2022 - 2023.</span>
+        {/* <span className="copyright">&copy; 2022 - 2023.</span> */}
       </div>
     </aside>
   );
