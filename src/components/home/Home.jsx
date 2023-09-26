@@ -5,7 +5,7 @@ import HeaderSocials from "./HeaderSocials";
 import ScrollDown from "./ScrollDown";
 import Shapes from "./Shapes";
 
-const CV_URL = window.location.origin + "/cv.pdf"
+const CV_URL = window.location.href + "/cv.pdf"
 
 const Home = () => {
   const downloadFileURL = (url) => {
