@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.9f8b7d74.css",
-    "main.js": "/my_portfolio/static/js/main.6dd48bb2.js",
+    "main.css": "/my_portfolio/static/css/main.19571c43.css",
+    "main.js": "/my_portfolio/static/js/main.bf374418.js",
     "static/media/about.jpg": "/my_portfolio/static/media/about.0a046bcf65abe87ac907.jpg",
+    "static/media/aws.png": "/my_portfolio/static/media/aws.590363486bbfb69e9eed.png",
     "static/media/introMobile.PNG": "/my_portfolio/static/media/introMobile.4f85239f9606fb4e8386.PNG",
     "static/media/kotlin.PNG": "/my_portfolio/static/media/kotlin.94cb42f40558af2e8457.PNG",
     "static/media/versionControl.PNG": "/my_portfolio/static/media/versionControl.187e24d90af5daa60c08.PNG",
@@ -23,15 +24,16 @@
     "static/media/javascript.png": "/my_portfolio/static/media/javascript.4ff0f9690356345bf827.png",
     "static/media/html.png": "/my_portfolio/static/media/html.badf07d90d288a5c4025.png",
     "static/media/postman.PNG": "/my_portfolio/static/media/postman.53f5ac6c80d4da33acff.PNG",
+    "static/media/cloud_quest.png": "/my_portfolio/static/media/cloud_quest.2596fe2ac33c9caed6c6.png",
     "static/media/firebase.PNG": "/my_portfolio/static/media/firebase.7948660ad3a561ca1e03.PNG",
     "static/media/logonew.png": "/my_portfolio/static/media/logonew.ccf2dcbc76d5e989fb57.png",
-    "static/media/dots-bg.svg": "/my_portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "static/media/dots-bg.svg": "/my_portfolio/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
     "index.html": "/my_portfolio/index.html",
-    "main.9f8b7d74.css.map": "/my_portfolio/static/css/main.9f8b7d74.css.map",
-    "main.6dd48bb2.js.map": "/my_portfolio/static/js/main.6dd48bb2.js.map"
+    "main.19571c43.css.map": "/my_portfolio/static/css/main.19571c43.css.map",
+    "main.bf374418.js.map": "/my_portfolio/static/js/main.bf374418.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f8b7d74.css",
-    "static/js/main.6dd48bb2.js"
+    "static/css/main.19571c43.css",
+    "static/js/main.bf374418.js"
   ]
 }
